@@ -1,0 +1,19 @@
+{
+  "itag": 18,
+  "fps": 25,
+  "projectionType": "RECTANGULAR",
+  "bitrate": 371221,
+  "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+  "audioQuality": "AUDIO_QUALITY_LOW",
+  "approxDurationMs": "214064",
+  "audioSampleRate": "44100",
+  "quality": "medium",
+  "qualityLabel": "360p",
+  "audioChannels": 2,
+  "signatureCipher": "s=AOqAOq0QJ8wRQIgIsQSIbAHSn0BqIXIFXttlQmVh1UirnPKJ-NUh8X_Nj4CIQC3TGC2oPXE6SUbVcAvf1qTGgQO0Wp%3Dg0VZDaiKKUUF2w%3D_%3D_%3D_&sp=sig&url=https://r2---sn-8va103g-3c2e.googlevideo.com/videoplayback%3Fexpire%3D1600473290%26ei%3DavRkX4jmCI7MyAXxnJvwAg%26ip%3D194.183.181.79%26id%3Do-AEJ-d25REoMVrqHGXTCQMwghttsPaaiFuKLL9q1xqCgV%26itag%3D18%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DYI%26mm%3D31%252C29%26mn%3Dsn-8va103g-3c2e%252Csn-3c27sn7s%26ms%3Dau%252Crdu%26mv%3Dm%26mvi%3D2%26pl%3D21%26nh%3D%252CIgpwcjAyLmticDAzKgkxMjcuMC4wLjE%26gcr%3Dua%26initcwndbps%3D855000%26vprv%3D1%26mime%3Dvideo%252Fmp4%26gir%3Dyes%26clen%3D9930172%26ratebypass%3Dyes%26dur%3D214.064%26lmt%3D1570279776262203%26mt%3D1600451555%26fvip%3D12%26fexp%3D23915655%26beids%3D9466588%26c%3DWEB%26txp%3D5531432%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cgcr%252Cvprv%252Cmime%252Cgir%252Cclen%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cnh%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgSXZRTS86cUb57l1NT26nyh76CFpvbURynLipvtOnYg0CIQCElhNgbUjbOXaArsGT0JKkI7tIPDEfbjGv7UdYmS1amQ%253D%253D",
+  "width": 640,
+  "contentLength": "9930172",
+  "lastModified": "1570279776262203",
+  "height": 360,
+  "averageBitrate": 371110
+}
